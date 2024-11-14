@@ -10,8 +10,8 @@ Follow these steps to set up and start the application:
 
 ### 1.Clone the Repository
 
-   git clone https://github.com/BobocGeorge254/Media-Frame.git
-   cd backend
+   - git clone https://github.com/BobocGeorge254/Media-Frame.git
+   - cd backend
 
 ### 2.Create and activate the virtual enviroment
 
@@ -47,4 +47,4 @@ Follow these steps to set up and start the application:
 
 ### Database
 
-    - SQLite databases are very easy to use in development, does not require a separate server, however not ideal because of scalability and features constraints (what more can you expect from a single file :D)
+    - SQLite databases are very easy to use in development, does not require\ a separate server, however not ideal because of scalability and features\ constraints (what more can you expect from a single file :D)
