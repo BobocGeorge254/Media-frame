@@ -10,6 +10,7 @@ Follow these steps to set up and start the application:
 
 ### 1.Clone the Repository
 
+   Clone the repository to your local machine:
    - git clone https://github.com/BobocGeorge254/Media-Frame.git
    - cd backend
 
